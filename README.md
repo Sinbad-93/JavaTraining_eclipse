@@ -1,11 +1,11 @@
 Java Exercices
-find packages and files in /src
+find packages and files in /src/jv
 
 JavaTraining1
 - Class constructeur primaire et secondaire
 
 JavaTraining2
-- simple switch case
+- Simple switch case
 
 JavaTraining3
 - Héritage de class et polymoprphisme (@override)
