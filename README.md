@@ -21,3 +21,7 @@ JavaTraining6
 
 JavaTraining7
 - Recusivité
+
+JavaTraining8
+•Afficher la date, SimpleDateFormat, Calendar
+
